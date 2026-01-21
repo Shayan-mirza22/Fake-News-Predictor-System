@@ -1,0 +1,24 @@
+# Core scientific computing
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning (comment out if not needed)
+tensorflow
+
+# Data preprocessing & utilities
+joblib
+
+# Jupyter & experimentation
+jupyter
+notebook
+ipykernel
+
